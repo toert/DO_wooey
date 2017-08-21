@@ -1,0 +1,60 @@
+INFO:btfxwss.connection:Connection opened
+INFO:btfxwss.connection:Connection opened
+INFO:btfxwss.connection:Connection closed
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+INFO:btfxwss.connection:Connection opened
+ERROR:btfxwss.client:Cannot call authenticate() on unestablished connection!
+ERROR:btfxwss.client:Cannot call new_order() on unestablished connection!
+INFO:btfxwss.connection:Connection Error - [Errno 9] Bad file descriptor
+INFO:btfxwss.connection:Connection closed
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+INFO:btfxwss.connection:Connection opened
+INFO:btfxwss.connection:Connection closed
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+INFO:btfxwss.connection:Connection opened
+INFO:btfxwss.connection:Connection closed
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+INFO:btfxwss.connection:Connection opened
+INFO:btfxwss.connection:Connection closed
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+INFO:btfxwss.connection:Connection opened
+INFO:btfxwss.connection:Connection closed
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+INFO:btfxwss.connection:Connection opened
+INFO:btfxwss.connection:Connection closed
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+INFO:btfxwss.connection:Connection opened
+INFO:btfxwss.connection:Connection closed
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+INFO:btfxwss.connection:Connection opened
+INFO:btfxwss.connection:Connection closed
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+INFO:btfxwss.connection:Connection opened
+INFO:btfxwss.connection:Connection closed
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v1/order/new HTTP/1.1" 400 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v1/order/new HTTP/1.1" 400 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v1/order/new HTTP/1.1" 400 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v1/order/new HTTP/1.1" 400 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.bitfinex.com
+DEBUG:urllib3.connectionpool:https://api.bitfinex.com:443 "POST /v2/auth/r/orders HTTP/1.1" 200 None

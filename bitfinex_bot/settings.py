@@ -28,6 +28,10 @@ DEBUG = True
 ALLOWED_HOSTS = ['46.101.30.142', '0.0.0.0', '127.0.0.1']
 
 
+# Wooey parameters
+
+WOOEY_SHOW_LOCKED_SCRIPTS = False
+
 # Application definition
 
 INSTALLED_APPS = [

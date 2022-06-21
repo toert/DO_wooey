@@ -15,7 +15,7 @@ html5lib==0.9999999
 idna==2.6
 kombu==3.0.37
 Markdown==2.6.9
-numpy==1.13.0
+numpy==1.22.0
 protobuf==3.4.0
 pytz==2017.2
 requests==2.18.4
